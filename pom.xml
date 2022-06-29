@@ -120,7 +120,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi</artifactId>
-    <version>3.14</version>
+    <version>4.1.1</version>
 </dependency>
 
 	  <dependency>
@@ -159,7 +159,7 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.11-beta3</version>
+			<version>4.1.1</version>
 		</dependency>
 		<dependency>
 			<groupId>xml-apis</groupId>
